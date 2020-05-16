@@ -11,6 +11,8 @@ As tecnologias utilizadas foram:
 - CSS
 - JAVASCRIPT
 
-Para executar o código, é preciso apenas que clone este repositório e abra-o o arquivo 'index.html' em um navegador, segue abaixo um gif da aplicação.
+Para executar o código, é preciso clonar este repositório e abra-o o arquivo 'index.html' em um navegador.
+
+Segue abaixo um gif da aplicação.
 
 ![](aplication.gif)

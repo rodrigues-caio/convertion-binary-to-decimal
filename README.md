@@ -5,7 +5,7 @@ Nesta aplicação, foi desenvolvido uma página web para conversão de números 
 
 OBS: Outro ponto a se destacar, a conversão ocorre com apenas 8 dígitos binários, mostrando ao usuário de forma amigável que é o limite da sua conversão.
 
-As ferramentas utilizadas foram:
+As tecnologias utilizadas foram:
 
 - HTML
 - CSS

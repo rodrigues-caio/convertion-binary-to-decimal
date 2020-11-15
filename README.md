@@ -1,5 +1,5 @@
 <h1 align="center">
-Convertion binary to decimal - Conversão de binário para decimal
+Conversão de binário para decimal
 </h1>
 
 <h1>
@@ -8,20 +8,36 @@ Convertion binary to decimal - Conversão de binário para decimal
 
 ## Sobre
 
-Nesta aplicação, foi desenvolvido uma página web para conversão de números binários à numero decimal, o input foi utilizado o type 'number' pois esta propriedade já dificulta a inserção de caracteres no input, que receberá apenas números. Porém, apenas números 0 e 1, quando o usuário colocar qualquer outro número além destes, será disparado na saída dos números decimais, que o mesmo não pode ser convertido para decimal, isto substitui o uso do método 'alert( )' que dificulta a experiência do usuário.
+Nesta aplicação, foi desenvolvida uma página web para conversão de numeros binários para numeros decimais.
 
-**OBS:** Outro ponto a se destacar, a conversão ocorre com apenas 8 dígitos binários, mostrando ao usuário de forma amigável que é o limite da sua conversão.
+Utilizei o tipo de input 'number' para dificultar a inserção de caracteres no input, recebendo apenas números.
+
+Criei uma lógica para que a entrada de dados fosse apenas 0 e 1, caso o usuário coloque outro número diferente, um erro será disparado.
+
+**OBS:** a conversão ocorre com apenas 8 dígitos binários.
+
+\*Projeto inspirado pelo **_app-ideas_** \*
 
 ## Tecnologias utilizadas:
 
-- HTML
-- CSS
-- JAVASCRIPT
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Como baixar o projeto
 
-Para executar o código, é preciso apenas que clone este repositório e abra-o o arquivo 'index.html' em um navegador, segue abaixo um gif da aplicação.
+Para executar o código, é preciso apenas que clone este repositório e abra-o o arquivo 'index.html' em um navegador.
 
 ```bash
-  git clone
+  # clone o repositório
+
+  $ git clone https://github.com/rodrigues-caio/convertion-binary-to-decimal.git
+
+  # abra o arquivo no seu editor de código
+
+  $ cd convertion-binary-to-decimal
+
+  # agora abra o arquivo index.html para visualizar
 ```
+
+Desenvolvido por **Caio Rodrigues**
